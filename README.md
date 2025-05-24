@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I will write a full readme.md later
+
+
+### Profile views
+
+![Profile views](https://count.getloli.com/@ShahadatHassan404)
